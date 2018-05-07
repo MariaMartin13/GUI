@@ -11,6 +11,8 @@ import javax.swing.JLabel;
 import javax.swing.JTextField;
 
 public class Daten {
+	
+	int test;// kann wieder weg
 
 
 

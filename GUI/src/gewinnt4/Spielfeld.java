@@ -13,7 +13,7 @@ public class Spielfeld {
 		// TODO Auto-generated method stub
 		
        
-        
+        int test;// kann wieder weg
        
         
         JFrame tFenster = new JFrame("Spielfeld");
