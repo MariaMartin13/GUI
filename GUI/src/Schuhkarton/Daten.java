@@ -15,6 +15,8 @@ public class Daten {
 	int test;//again a test
 
 	int a,b;//again a test
+	
+	int c;//test
 
 
 public static void main(String [] args) {
