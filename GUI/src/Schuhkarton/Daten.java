@@ -11,7 +11,8 @@ import javax.swing.JLabel;
 import javax.swing.JTextField;
 
 public class Daten {
-	
+	 
+	int test;//again a test
 
 	int a,b;//again a test
 
