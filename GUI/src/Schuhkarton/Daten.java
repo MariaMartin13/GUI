@@ -13,7 +13,7 @@ import javax.swing.JTextField;
 public class Daten {
 	
 
-
+	int a,b;//again a test
 
 
 public static void main(String [] args) {
