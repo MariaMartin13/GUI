@@ -13,12 +13,12 @@ public class Spielfeld {
 		// TODO Auto-generated method stub
 		
        
-        int test;// kann wieder weg
+       
        
         
         JFrame tFenster = new JFrame("Spielfeld");
         tFenster.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        tFenster.setSize(600, 600);
+        tFenster.setSize(1280, 720);
         tFenster.setLayout(new GridLayout(6,7));
         for (int i=0; i<42;i++) {
         tFenster.getContentPane().add(new JButton(""+i));
